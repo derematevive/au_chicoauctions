@@ -1,9 +1,10 @@
 # :construction: Estructura Base Datos chico-auctions :construction:
 
 ## :hammer: Tables
-#### create table au_configuration
-- ` 😎 au_configuration `: 🤔 <a href="https://github.com/derematevive/db_chico_auctions/blob/main/tables/au_configuration/au_configuration.sql">au_configuration.sql</a>
-<img style="margin-left:344px" src="https://github.com/derematevive/db_chico_auctions/blob/main/tables/au_configuration/au_configuration.jpg" width="120" height="120">
+#### - create table au_configuration
+-  😎 au_configuration : 🤔 <a href="https://github.com/derematevive/db_chico_auctions/blob/main/tables/au_configuration/au_configuration.sql">au_configuration.sql</a> 
+- <img style="margin-left:344px" src="https://github.com/derematevive/db_chico_auctions/blob/main/tables/au_configuration/au_configuration.jpg" width="120" height="120">
+
 
 <div id="badges" align="center">
   <a href="https://www.facebook.com/DeremateVive" target="_blank">
