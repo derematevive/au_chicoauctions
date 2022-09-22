@@ -3,7 +3,7 @@
 
 | Table Name | Description |
 | --- | --- |
-| [`*_configuration`](https://github.com/nhn/tui.editor/tree/master/apps/editor) | Inforación general del sistema y otros menesteres. |
+| [`*_configuration`](https://github.com/derematevive/db_chico_auctions/edit/main/tables/au_configuration/au_configuration.sql) | Inforación general del sistema y otros menesteres. |
 
 
 # Consulta 1 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
