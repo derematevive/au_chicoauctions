@@ -1,4 +1,4 @@
-# DB chico_auctions <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="51px" height="51px"> MySQL 7.6 </a>
+## DB chico_auctions <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="51px" height="51px"> MySQL 7.6 </a>
 
 | Table Name | Description | General view |
 | --- | --- | --- |
@@ -6,7 +6,7 @@
 
 
 
-# :construction: Continuará ... :construction:
+#### :construction: Continuará ... :construction:
 
 
 <div id="badges" align="center">
@@ -24,8 +24,10 @@
   </a>
 </div>
 
- Get Icon License [![License](https://img.shields.io/github/license/get-icon/geticon)](https://github.com/get-icon/geticon/blob/master/LICENSE "License")
 
-# 📜 License
+#### Get Icon License [![License](https://img.shields.io/github/license/get-icon/geticon)](https://github.com/get-icon/geticon/blob/master/LICENSE "License")
+
+
+## 📜 License
 
 This software is licensed under the [GNU](https://github.com/derematevive/db_chico_auctions/blob/main/LICENSE) © [DeRemateVive](https://derematevive.github.io/chicoauctions/).
