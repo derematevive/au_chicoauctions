@@ -49,13 +49,12 @@ COMMIT;
   </a>
 </div>
 
-## Get Icon License
+#### Get Icon License [![License](https://img.shields.io/github/license/get-icon/geticon)](https://github.com/get-icon/geticon/blob/master/LICENSE "License")
 
-[![License](https://img.shields.io/github/license/get-icon/geticon)](https://github.com/get-icon/geticon/blob/master/LICENSE "License")
 
-# 📜 License
+## 📜 License
 
-This software is licensed under the [GNU](https://github.com/derematevive/db_chico_auctions/blob/main/LICENSE) © [DeRemateVive](https://github.com/nhn).
+This software is licensed under the [GNU](https://github.com/derematevive/db_chico_auctions/blob/main/LICENSE) © [DeRemateVive](https://derematevive.github.io/chicoauctions/).
 
 
 
