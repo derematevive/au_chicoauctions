@@ -24,9 +24,7 @@
   </a>
 </div>
 
-## Get Icon License
-
-[![License](https://img.shields.io/github/license/get-icon/geticon)](https://github.com/get-icon/geticon/blob/master/LICENSE "License")
+ Get Icon License [![License](https://img.shields.io/github/license/get-icon/geticon)](https://github.com/get-icon/geticon/blob/master/LICENSE "License")
 
 # 📜 License
 
