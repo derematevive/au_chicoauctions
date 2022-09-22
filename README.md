@@ -1,9 +1,10 @@
-# :construction: Estructura Base Datos chico-auctions :construction:
+### TABLE <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="51px" height="51px"> MySQL 7.6 </a>
 
-## :hammer: Tables
-#### - create table au_configuration
--  😎 au_configuration : 🤔 <a href="https://github.com/derematevive/db_chico_auctions/blob/main/tables/au_configuration/au_configuration.sql">au_configuration.sql</a> 
-- <img style="margin-left:344px" src="https://github.com/derematevive/db_chico_auctions/blob/main/tables/au_configuration/au_configuration.jpg" width="120" height="120">
+| Name | Description |
+| --- | --- |
+| [`*_configuration`](https://github.com/derematevive/db_chico_auctions/tree/main/tables/au_configuration) | Inforacion general del sistema y otros menesteres. |
+
+
 
 
 <div id="badges" align="center">
