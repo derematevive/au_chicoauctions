@@ -1,10 +1,12 @@
-### TABLE <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="51px" height="51px"> MySQL 7.6 </a>
+# DB chico_auctions <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="51px" height="51px"> MySQL 7.6 </a>
 
-| Name | Description |
-| --- | --- |
-| [`*_configuration`](https://github.com/derematevive/db_chico_auctions/tree/main/tables/au_configuration) | Inforacion general del sistema y otros menesteres. |
+| Table Name | Description | General view |
+| --- | --- | --- |
+| [`*_configuration (+)`](https://github.com/derematevive/db_chico_auctions/tree/main/tables/au_configuration) | Inforación general del sistema y otros menesteres. | <img style="margin-left:344px" src="https://github.com/derematevive/db_chico_auctions/blob/main/tables/au_configuration/au_configuration.jpg" width="80" height="80"> |
 
 
+
+# :construction: Continuará ... :construction:
 
 
 <div id="badges" align="center">
@@ -21,3 +23,11 @@
     <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge"/>
   </a>
 </div>
+
+## Get Icon License
+
+[![License](https://img.shields.io/github/license/get-icon/geticon)](https://github.com/get-icon/geticon/blob/master/LICENSE "License")
+
+# 📜 License
+
+This software is licensed under the [GNU](https://github.com/derematevive/db_chico_auctions/blob/main/LICENSE) © [DeRemateVive](https://github.com/nhn).
