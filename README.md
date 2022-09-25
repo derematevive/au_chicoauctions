@@ -2,7 +2,7 @@
 
 | Table Name | Description | General view |
 | --- | --- | --- |
-| [`*_configuration (+)`](https://github.com/derematevive/db_chico_auctions/tree/main/tables/au_configuration) | Inforación general del sistema y otros menesteres. | <img style="margin-left:344px" src="https://github.com/derematevive/db_chico_auctions/blob/main/tables/au_configuration/au_configuration.jpg" width="80" height="80"> |
+| [`*_configuration ↗️ `](https://github.com/derematevive/db_chico_auctions/tree/main/tables/au_configuration) | Inforación general del sistema y otros menesteres. | <img style="margin-left:344px" src="https://github.com/derematevive/db_chico_auctions/blob/main/tables/au_configuration/au_configuration.jpg" width="80" height="80"> |
 
 
 
