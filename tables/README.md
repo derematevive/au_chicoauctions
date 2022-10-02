@@ -3,7 +3,14 @@
 
 | Table Name | Description | General view |
 | --- | --- | --- |
-| [`*_configuration (+)`](https://github.com/derematevive/db_chico_auctions/tree/main/tables/au_configuration) | Inforación general del sistema y otros menesteres. | <img style="margin-left:344px" src="https://github.com/derematevive/db_chico_auctions/blob/main/tables/au_configuration/au_configuration.jpg" width="80" height="80"> |
+| [`*_configuration ↗`](https://github.com/derematevive/db_chico_auctions/tree/main/tables/au_configuration) | Inforación general del sistema y otros menesteres. | <img style="margin-left:344px" src="https://github.com/derematevive/db_chico_auctions/blob/main/tables/au_configuration/au_configuration.jpg" width="80" height="80"> |
+| [`*_hooks ↗`](https://github.com/derematevive/db_chico_auctions/tree/main/tables/hooks) | Manager Hooks | ↗🐌 |
+| [`*_hooks_lang ↗`](https://github.com/derematevive/db_chico_auctions/tree/main/tables/hooks_lang) | Manager Hooks por idiomas | ↗🐌 |
+| [`*_seo ↗`](https://github.com/derematevive/db_chico_auctions/tree/main/tables/seo) | Gestor meta datos por paginas | ↗🐌 |
+| [`*_seo_lang ↗`](https://github.com/derematevive/db_chico_auctions/tree/main/tables/seo_lang) | Manager meta datos por idiomas | ↗🐌 |
+| [`*_lang ↗`](https://github.com/derematevive/db_chico_auctions/tree/main/tables/lang) | Idiomas inciales, se usara como base Locale PHP 8.1 | ↗🐌 |
+| [`*_visitor ↗`](https://github.com/derematevive/db_chico_auctions/tree/main/tables/visitor) | Configuracion inicial al vuelo preferencias del visitante | ↗🐌 |
+
 
 
 
